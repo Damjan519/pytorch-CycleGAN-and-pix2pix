@@ -3,6 +3,8 @@ debug*
 checkpoints/
 results/
 build/
+datasets/facades/
+datasets/maps/
 dist/
 *.png
 torch.egg-info/
